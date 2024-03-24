@@ -40,7 +40,7 @@ minima:
 
 header_pages:
   - tournament.md
-  - timetable.md
+  - schedule.md
   - registration.md
   - venue.md
 # Exclude from processing.
