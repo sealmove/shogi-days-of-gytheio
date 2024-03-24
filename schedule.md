@@ -21,10 +21,10 @@ Time  | Event
 
 Time  | Event
 :---- | :---------------
-10:30 | Round 1
-14:00 | Round 2
-16:30 | Round 3
-19:00 | Round 4
+09:00 | Round 1
+11:30 | Round 2
+15:00 | Round 3
+17:30 | Round 4
 
 ### Sunday 26 May
 
