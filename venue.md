@@ -10,6 +10,10 @@ The venue is a historical building called [Parthenagogeio](https://maps.app.goo.
 ### How to get there from Athens
 The only way to travel from Athens to Gytheio with public transportation is to use the [intercity bus line](https://ktel-lakonias.gr/eticket/en){:target="_blank"}. The bus departs from [KTEL Kifisou](https://maps.app.goo.gl/dxYJdjkgMbuN8rZh6){:target="_blank"} -- which is the central Athens intercity bus station -- and arrives at [Gytheio bus station](https://maps.app.goo.gl/3XsSazQsCSWDWeKbA){:target="_blank"}. For your convinience you may refer to the timetable below.
 
+- [Book a ticket online](https://ktel-lakonias.gr/eticket/en){:target="_blank"} (only possible at most 1 week prior)
+- [Bus station in Athens](https://maps.app.goo.gl/dxYJdjkgMbuN8rZh6){:target="_blank"}
+- [Bus station in Gytheio](https://maps.app.goo.gl/3XsSazQsCSWDWeKbA){:target="_blank"}
+
 #### Athens -> Gytheio
 
 Departure from Athens | Arrival in Gytheio
