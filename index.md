@@ -5,4 +5,6 @@
 layout: home
 ---
 
-This website presents information regarding a Shogi tournament in Gytheio, which will take place during 24-26 May 2024.
+This website presents information regarding a Shogi tournament in Gytheio, Greece, which will take place during 24-26 May 2024.
+
+The games of the main tournament are FESA-rated.
