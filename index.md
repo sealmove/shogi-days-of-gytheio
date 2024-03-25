@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This website presents information regarding a Shogi tournament in Gytheio, which will take place during 24-26 May 2024.
