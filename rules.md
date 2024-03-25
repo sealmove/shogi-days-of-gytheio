@@ -8,7 +8,8 @@ inheader: true
 ### Main tournament
 
 Time control: 40 min + 40 sec byo-yomi  
-System: Swiss
+System: Swiss  
+Entry fee: 10€
 
 ### Blitz tournament
 
