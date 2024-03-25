@@ -41,7 +41,6 @@ minima:
 header_pages:
   - rules.md
   - schedule.md
-  - registration.md
   - venue.md
 # Exclude from processing.
 # The following items will not be processed, by default.
