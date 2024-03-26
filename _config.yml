@@ -27,7 +27,7 @@ author:
   email: stefanosmandalas@gmail.com
 description: >-
   Information about Shogi Days of Gytheio 2024
-baseurl: "shogi-hellas" # the subpath of your site, e.g. /blog
+baseurl: "/shogi-hellas/shogi-days-of-gytheio" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
