@@ -34,4 +34,4 @@ Time  | Event
 11:30 | Round 6
 15:00 | Round 7
 
-_Note: [Last bus to Athens leaves at 18:30](/venue)_
+_Note: [Last bus to Athens leaves at 18:30]({{ site.baseurl }}/venue)_
