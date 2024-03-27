@@ -2,7 +2,6 @@
 layout: page
 title: Venue
 permalink: /venue/
-inheader: true
 ---
 
 The venue is a historical building called [Parthenagogeio](https://maps.app.goo.gl/aVWowukYg8qbRPKN9), which nowdays houses a public cultural center. 
