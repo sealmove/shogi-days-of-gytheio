@@ -36,7 +36,7 @@ plugins:
   - jekyll-feed
 
 minima:
-  skin: dark
+  skin: classic
 
 header_pages:
   - rules.md

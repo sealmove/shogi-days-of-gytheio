@@ -10,24 +10,24 @@ table th:first-of-type {
 }
 </style>
 
-### Friday 24 May
+### Friday, 24th of May
 
-Time  | Event
+Time  |
 :---- | :---------------
 17:00 | Blitz tournament
 
-### Saturday 25 May
+### Saturday, 25th of May
 
-Time  | Event
+Time  |
 :---- | :---------------
 09:00 | Round 1
 11:30 | Round 2
 15:00 | Round 3
 17:30 | Round 4
 
-### Sunday 26 May
+### Sunday, 26th of May
 
-Time  | Event
+Time  |
 :---- | :---------------
 09:00 | Round 5
 11:30 | Round 6
