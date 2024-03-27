@@ -20,7 +20,7 @@ table th:nth-of-type(3) {
 
 Time control             | System          | Entry fee  
 :----------------------- | :-------------- | :-----------------
-40 min + 40 sec byo-yomi | Swiss, 7 rounds | 10€ onsite in cash
+30 min + 40 sec byo-yomi | Swiss, 7 rounds | 10€ onsite in cash
 
 ### Blitz tournament
 

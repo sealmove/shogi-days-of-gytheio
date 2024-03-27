@@ -14,23 +14,25 @@ table th:first-of-type {
 
 Time  |
 :---- | :---------------
-17:00 | Blitz tournament
+19:00 | Blitz tournament
 
 ### Saturday, 25th of May
 
 Time  |
 :---- | :---------------
-09:00 | Round 1
-11:30 | Round 2
+10:00 | Round 1
+12:00 | Round 2
 15:00 | Round 3
-17:30 | Round 4
+17:00 | Round 4
+19:00 | Round 5
 
 ### Sunday, 26th of May
 
 Time  |
 :---- | :---------------
-09:00 | Round 5
-11:30 | Round 6
-15:00 | Round 7
+10:00 | Round 6
+12:00 | Round 7
 
-_Note: [Last bus to Athens leaves at 18:30]({{ site.baseurl }}/venue)_
+_Note: [All buses to Athens after the event]({{ site.baseurl }}/venue):_
+- 15:45 -> 20:00
+- 18:30 -> 22:45
