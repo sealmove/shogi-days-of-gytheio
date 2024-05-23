@@ -14,7 +14,7 @@ table th:first-of-type {
 
 Time  |
 :---- | :---------------
-19:00 | Blitz tournament
+18:00 | Blitz tournament
 
 ### Saturday, 25th of May
 
